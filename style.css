@@ -1,0 +1,19 @@
+.nn h2{
+    text-align: center;
+    font-size: 25px;
+    font-family: Courier New;
+    background: Orchid;
+}
+.nn h3{
+        text-align: center;
+        font-size: 15px;
+        font-family: courier New;
+        background: bisque;
+
+}
+.nn h4{
+    text-align: center;
+    font-size: 45px;
+    font-family: Courier New;
+    background: lightcoral;
+}
